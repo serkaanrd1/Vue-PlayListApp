@@ -43,11 +43,9 @@ npm run serve
 ```
 npm run build
 ```
-<<<<<<< HEAD
-!(1.png)
-!(2.png)
-!(3.png)
-!(4.png)
-!(5.png)
-=======
->>>>>>> 54ff0e433e8e5b2de6b6f16141bc597cc4b57677
+![](./1.png)
+![](./2.png)
+![](./3.png)
+![](./4.png)
+![](./5.png)
+
