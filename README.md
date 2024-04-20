@@ -1,4 +1,4 @@
-# Vue.js Firebase Playlist Application
+# Vue.js Firebase Playlist Application 
 
 This repository contains a playlist application developed using Vue.js and Firebase. Users can log in, register, and create their own playlists through the application.
 
